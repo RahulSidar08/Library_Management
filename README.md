@@ -1,1 +1,3 @@
-# Library_Management
+# Library_Management System
+C++ 
+SQL
